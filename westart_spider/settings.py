@@ -106,3 +106,6 @@ MONGODB_PORT = 27017
 MONGODB_PWD = 'wab123'
 MONGODB_USER = 'accountAdmin01'
 MONGODB_DB = 'products'
+
+# Images save to path
+IMAGE_PATH = 'D:\\tmp\\'
